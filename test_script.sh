@@ -19,10 +19,10 @@ python$ver $last'_breakRSA_hw06.py' message.txt cracked.txt
 echo $'\nMessage is:\n'
 cat message.txt
 
-echo $'\ndecrypted output is:\n"
+echo $'\ndecrypted output is:\n'
 cat decrypted.txt
 
-echo $'\ncracked output is:\n"
+echo $'\ncracked output is:\n'
 cat cracked.txt
 
 rm *txt
